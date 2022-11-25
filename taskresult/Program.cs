@@ -10,7 +10,7 @@ void SortArray(string[]mas)
         text = mas[i];
     if (text.Length<4)
     {
-    Console.Write ($"[{mas[i]}]  ");   
+    Console.Write ($"[{mas[i]}] ");   
     }
    }
     Console.WriteLine();   
